@@ -1,4 +1,14 @@
 ### Hi there 👋
+---
+
+![@bhawinameta's Holopin board](https://holopin.me/bhawinameta)
+
+---
+### About me:
+-🌱 I’m learning Data Science and Machine Learning...
+-🔭 I’m currently working on my DSA skills....
+
+
 
 <!--
 **bhawinameta/bhawinameta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
